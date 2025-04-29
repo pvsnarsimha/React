@@ -1,0 +1,518 @@
+{
+  "Physics": [
+    {
+      "type": "mcq",
+      "text": "What is the dimensional formula of force?",
+      "options": ["[MLT^-2]", "[ML^2T^-2]", "[MLT^-1]", "[ML^2T^-1]"],
+      "correctAnswer": "[MLT^-2]",
+      "explanation": "Force is mass times acceleration. The dimensional formula of mass is [M], and acceleration is [LT^-2], so force is [M][LT^-2] = [MLT^-2]."
+    },
+    {
+      "type": "mcq",
+      "text": "The SI unit of electric flux is:",
+      "options": ["N m^2 C^-1", "N m C^-1", "N m^2 C", "N m C"],
+      "correctAnswer": "N m^2 C^-1",
+      "explanation": "Electric flux is defined as the electric field times area, measured in newton meters squared per coulomb (N m^2 C^-1) in SI units."
+    },
+    {
+      "type": "mcq",
+      "text": "What is the value of acceleration due to gravity?",
+      "options": ["9.8 m/s^2", "10 m/s^2", "8.9 m/s^2", "11 m/s^2"],
+      "correctAnswer": "9.8 m/s^2",
+      "explanation": "The standard acceleration due to gravity on Earth is approximately 9.8 m/s^2."
+    },
+    {
+      "type": "mcq",
+      "text": "Which law states F = ma?",
+      "options": ["Newton's First Law", "Newton's Second Law", "Newton's Third Law", "Hooke's Law"],
+      "correctAnswer": "Newton's Second Law",
+      "explanation": "Newton's Second Law states that force equals mass times acceleration (F = ma)."
+    },
+    {
+      "type": "mcq",
+      "text": "What is the unit of power?",
+      "options": ["Watt", "Joule", "Newton", "Pascal"],
+      "correctAnswer": "Watt",
+      "explanation": "Power is the rate of doing work, measured in watts (1 W = 1 J/s)."
+    },
+    {
+      "type": "mcq",
+      "text": "What is the speed of light in vacuum?",
+      "options": ["3 x 10^8 m/s", "3 x 10^7 m/s", "3 x 10^9 m/s", "3 x 10^6 m/s"],
+      "correctAnswer": "3 x 10^8 m/s",
+      "explanation": "The speed of light in a vacuum is a universal constant, approximately 3 x 10^8 m/s."
+    },
+    {
+      "type": "mcq",
+      "text": "What is the formula for kinetic energy?",
+      "options": ["1/2 mv^2", "mgh", "1/2 kx^2", "Fd"],
+      "correctAnswer": "1/2 mv^2",
+      "explanation": "Kinetic energy is given by 1/2 times mass times velocity squared (1/2 mv^2)."
+    },
+    {
+      "type": "mcq",
+      "text": "What is the SI unit of electric charge?",
+      "options": ["Coulomb", "Ampere", "Volt", "Ohm"],
+      "correctAnswer": "Coulomb",
+      "explanation": "The SI unit of electric charge is the coulomb (C)."
+    },
+    {
+      "type": "mcq",
+      "text": "What is the law of conservation of energy?",
+      "options": ["Energy cannot be created or destroyed", "Energy increases with time", "Energy decreases with time", "Energy is only kinetic"],
+      "correctAnswer": "Energy cannot be created or destroyed",
+      "explanation": "The law of conservation of energy states that energy can neither be created nor destroyed, only transformed."
+    },
+    {
+      "type": "mcq",
+      "text": "What is the frequency of a wave if its period is 0.1 s?",
+      "options": ["10 Hz", "5 Hz", "20 Hz", "1 Hz"],
+      "correctAnswer": "10 Hz",
+      "explanation": "Frequency is the inverse of period (f = 1/T), so 1/0.1 = 10 Hz."
+    },
+    {
+      "type": "mcq",
+      "text": "What is the unit of resistance?",
+      "options": ["Ohm", "Volt", "Ampere", "Watt"],
+      "correctAnswer": "Ohm",
+      "explanation": "Resistance is measured in ohms (Ω), defined by Ohm's Law (V = IR)."
+    },
+    {
+      "type": "mcq",
+      "text": "What is the value of Planck's constant?",
+      "options": ["6.626 x 10^-34 J·s", "6.626 x 10^-33 J·s", "6.626 x 10^-35 J·s", "6.626 x 10^-36 J·s"],
+      "correctAnswer": "6.626 x 10^-34 J·s",
+      "explanation": "Planck's constant is approximately 6.626 x 10^-34 J·s, a fundamental constant in quantum mechanics."
+    },
+    {
+      "type": "mcq",
+      "text": "What is the work-energy theorem?",
+      "options": ["Work done equals change in kinetic energy", "Work done equals potential energy", "Work done equals total energy", "Work done equals zero"],
+      "correctAnswer": "Work done equals change in kinetic energy",
+      "explanation": "The work-energy theorem states that the work done on an object is equal to the change in its kinetic energy."
+    },
+    {
+      "type": "mcq",
+      "text": "What is the SI unit of magnetic flux?",
+      "options": ["Weber", "Tesla", "Henry", "Farad"],
+      "correctAnswer": "Weber",
+      "explanation": "Magnetic flux is measured in webers (Wb) in the SI system."
+    },
+    {
+      "type": "mcq",
+      "text": "What is the primary source of energy in a pendulum system?",
+      "options": ["Gravitational potential energy", "Kinetic energy", "Thermal energy", "Nuclear energy"],
+      "correctAnswer": "Gravitational potential energy",
+      "explanation": "In a pendulum, energy oscillates between gravitational potential energy at the highest point and kinetic energy at the lowest point."
+    },
+    {
+      "type": "mcq",
+      "text": "What is the focal length of a plane mirror?",
+      "options": ["Infinity", "Zero", "Positive", "Negative"],
+      "correctAnswer": "Infinity",
+      "explanation": "A plane mirror has a focal length of infinity because it does not converge or diverge light rays."
+    },
+    {
+      "type": "mcq",
+      "text": "What is the SI unit of capacitance?",
+      "options": ["Farad", "Coulomb", "Volt", "Ampere"],
+      "correctAnswer": "Farad",
+      "explanation": "Capacitance is measured in farads (F) in the SI system."
+    },
+    {
+      "type": "mcq",
+      "text": "What is the formula for momentum?",
+      "options": ["mv", "ma", "mgh", "1/2 mv^2"],
+      "correctAnswer": "mv",
+      "explanation": "Momentum is mass times velocity, given by p = mv."
+    },
+    {
+      "type": "mcq",
+      "text": "What is the critical angle for total internal reflection?",
+      "options": ["Angle where refraction angle is 90°", "Angle where reflection stops", "Angle where light bends inward", "Angle where light scatters"],
+      "correctAnswer": "Angle where refraction angle is 90°",
+      "explanation": "The critical angle occurs when the angle of refraction is 90°, leading to total internal reflection."
+    },
+    {
+      "type": "mcq",
+      "text": "What is the unit of specific heat capacity?",
+      "options": ["J kg^-1 K^-1", "J kg^-1", "J K^-1", "J kg^-1 s^-1"],
+      "correctAnswer": "J kg^-1 K^-1",
+      "explanation": "Specific heat capacity is measured in joules per kilogram per kelvin (J kg^-1 K^-1)."
+    },
+    {
+      "type": "numerical",
+      "text": "A car accelerates from rest at 2 m/s^2 for 5 seconds. What is its final velocity? (Enter the numerical value in m/s)",
+      "answer": 10,
+      "explanation": "Using v = u + at, where u = 0, a = 2 m/s^2, t = 5 s: v = 0 + 2 × 5 = 10 m/s."
+    },
+    {
+      "type": "numerical",
+      "text": "A 2 kg object is dropped from a height of 5 m. What is its potential energy at the start? (g = 10 m/s^2) (Enter the numerical value in J)",
+      "answer": 100,
+      "explanation": "Potential energy = mgh = 2 × 10 × 5 = 100 J."
+    },
+    {
+      "type": "numerical",
+      "text": "A circuit has a resistance of 4 ohms and a current of 3 A. What is the voltage across the resistor? (Enter the numerical value in V)",
+      "answer": 12,
+      "explanation": "Using Ohm's Law, V = IR = 3 × 4 = 12 V."
+    },
+    {
+      "type": "numerical",
+      "text": "A wave has a frequency of 50 Hz and a wavelength of 2 m. What is the speed of the wave? (Enter the numerical value in m/s)",
+      "answer": 100,
+      "explanation": "Wave speed v = fλ = 50 × 2 = 100 m/s."
+    },
+    {
+      "type": "numerical",
+      "text": "A 5 kg object moves at 4 m/s. What is its kinetic energy? (Enter the numerical value in J)",
+      "answer": 40,
+      "explanation": "Kinetic energy = 1/2 mv^2 = 1/2 × 5 × 4^2 = 1/2 × 5 × 16 = 40 J."
+    }
+  ],
+  "Chemistry": [
+    {
+      "type": "mcq",
+      "text": "The oxidation number of chlorine in ClO3^- is:",
+      "options": ["+5", "+3", "-1", "+7"],
+      "correctAnswer": "+5",
+      "explanation": "In ClO3^-, oxygen is -2. With a -1 charge on the ion, chlorine must be +5 to balance the oxidation states."
+    },
+    {
+      "type": "mcq",
+      "text": "Which gas is known as laughing gas?",
+      "options": ["N2O", "NO2", "NH3", "CO2"],
+      "correctAnswer": "N2O",
+      "explanation": "N2O (nitrous oxide) is known as laughing gas due to its euphoric effects when inhaled."
+    },
+    {
+      "type": "mcq",
+      "text": "What is the pH of pure water at 25°C?",
+      "options": ["7", "6", "8", "14"],
+      "correctAnswer": "7",
+      "explanation": "Pure water at 25°C has a pH of 7, indicating it is neutral."
+    },
+    {
+      "type": "mcq",
+      "text": "Which element has the atomic number 1?",
+      "options": ["Hydrogen", "Helium", "Lithium", "Beryllium"],
+      "correctAnswer": "Hydrogen",
+      "explanation": "Hydrogen has an atomic number of 1, making it the first element in the periodic table."
+    },
+    {
+      "type": "mcq",
+      "text": "What is the molar mass of CO2?",
+      "options": ["44 g/mol", "32 g/mol", "28 g/mol", "16 g/mol"],
+      "correctAnswer": "44 g/mol",
+      "explanation": "CO2 has a molar mass of 12 (C) + 2 × 16 (O) = 44 g/mol."
+    },
+    {
+      "type": "mcq",
+      "text": "What is the common name for sodium chloride?",
+      "options": ["Table salt", "Baking soda", "Vinegar", "Sugar"],
+      "correctAnswer": "Table salt",
+      "explanation": "Sodium chloride (NaCl) is commonly known as table salt."
+    },
+    {
+      "type": "mcq",
+      "text": "What gas is produced when an acid reacts with a metal?",
+      "options": ["Hydrogen", "Oxygen", "Carbon dioxide", "Nitrogen"],
+      "correctAnswer": "Hydrogen",
+      "explanation": "Acids reacting with metals produce hydrogen gas."
+    },
+    {
+      "type": "mcq",
+      "text": "What is the symbol for gold?",
+      "options": ["Au", "Ag", "Cu", "Fe"],
+      "correctAnswer": "Au",
+      "explanation": "The symbol for gold is Au, derived from the Latin word 'aurum'."
+    },
+    {
+      "type": "mcq",
+      "text": "What is the primary source of energy for Earth’s climate?",
+      "options": ["Sun", "Moon", "Earth’s core", "Wind"],
+      "correctAnswer": "Sun",
+      "explanation": "The Sun is the primary source of energy driving Earth's climate."
+    },
+    {
+      "type": "mcq",
+      "text": "What is the boiling point of water at standard pressure?",
+      "options": ["100°C", "90°C", "110°C", "0°C"],
+      "correctAnswer": "100°C",
+      "explanation": "Water boils at 100°C at standard atmospheric pressure (1 atm)."
+    },
+    {
+      "type": "mcq",
+      "text": "What is the most abundant gas in Earth’s atmosphere?",
+      "options": ["Nitrogen", "Oxygen", "Carbon dioxide", "Argon"],
+      "correctAnswer": "Nitrogen",
+      "explanation": "Nitrogen constitutes about 78% of Earth's atmosphere."
+    },
+    {
+      "type": "mcq",
+      "text": "What is the product of a neutralization reaction?",
+      "options": ["Salt and water", "Acid and base", "Gas and salt", "Water only"],
+      "correctAnswer": "Salt and water",
+      "explanation": "A neutralization reaction between an acid and base produces salt and water."
+    },
+    {
+      "type": "mcq",
+      "text": "What is the valency of carbon?",
+      "options": ["4", "2", "1", "3"],
+      "correctAnswer": "4",
+      "explanation": "Carbon has a valency of 4, as it can form four covalent bonds."
+    },
+    {
+      "type": "mcq",
+      "text": "Which of the following is a noble gas?",
+      "options": ["Helium", "Oxygen", "Nitrogen", "Hydrogen"],
+      "correctAnswer": "Helium",
+      "explanation": "Helium is a noble gas, characterized by its full valence shell and low reactivity."
+    },
+    {
+      "type": "mcq",
+      "text": "What is the chemical formula of sulfuric acid?",
+      "options": ["H2SO4", "HCl", "HNO3", "H2CO3"],
+      "correctAnswer": "H2SO4",
+      "explanation": "The chemical formula of sulfuric acid is H2SO4."
+    },
+    {
+      "type": "mcq",
+      "text": "What type of bond is present in NaCl?",
+      "options": ["Ionic bond", "Covalent bond", "Hydrogen bond", "Metallic bond"],
+      "correctAnswer": "Ionic bond",
+      "explanation": "NaCl forms an ionic bond due to the transfer of electrons between sodium and chlorine."
+    },
+    {
+      "type": "mcq",
+      "text": "What is the catalyst in the Haber process?",
+      "options": ["Iron", "Platinum", "Nickel", "Silver"],
+      "correctAnswer": "Iron",
+      "explanation": "Iron is used as a catalyst in the Haber process to produce ammonia."
+    },
+    {
+      "type": "mcq",
+      "text": "What is the atomic mass of oxygen?",
+      "options": ["16 u", "14 u", "12 u", "18 u"],
+      "correctAnswer": "16 u",
+      "explanation": "The atomic mass of oxygen is approximately 16 atomic mass units (u)."
+    },
+    {
+      "type": "mcq",
+      "text": "Which of the following is an alkali metal?",
+      "options": ["Sodium", "Calcium", "Magnesium", "Aluminum"],
+      "correctAnswer": "Sodium",
+      "explanation": "Sodium is an alkali metal, found in Group 1 of the periodic table."
+    },
+    {
+      "type": "mcq",
+      "text": "What is the color of litmus paper in an acidic solution?",
+      "options": ["Red", "Blue", "Green", "Purple"],
+      "correctAnswer": "Red",
+      "explanation": "Litmus paper turns red in an acidic solution due to the presence of H+ ions."
+    },
+    {
+      "type": "numerical",
+      "text": "How many moles of NaCl are present in 117 g of NaCl? (Molar mass of NaCl = 58.5 g/mol) (Enter the numerical value)",
+      "answer": 2,
+      "explanation": "Moles = mass / molar mass = 117 / 58.5 = 2 moles."
+    },
+    {
+      "type": "numerical",
+      "text": "What is the pH of a solution with [H+] = 1 x 10^-3 M? (Enter the numerical value)",
+      "answer": 3,
+      "explanation": "pH = -log[H+] = -log(1 x 10^-3) = 3."
+    },
+    {
+      "type": "numerical",
+      "text": "How many grams of H2O are produced from 2 moles of H2 reacting with O2? (Molar mass of H2O = 18 g/mol) (Enter the numerical value in g)",
+      "answer": 36,
+      "explanation": "2H2 + O2 → 2H2O. 2 moles of H2 produce 2 moles of H2O. Mass = 2 × 18 = 36 g."
+    },
+    {
+      "type": "numerical",
+      "text": "What is the molarity of a solution with 0.5 moles of solute in 2 L of solution? (Enter the numerical value in M)",
+      "answer": 0.25,
+      "explanation": "Molarity = moles / volume = 0.5 / 2 = 0.25 M."
+    },
+    {
+      "type": "numerical",
+      "text": "What is the oxidation number of sulfur in SO4^2-? (Enter the numerical value)",
+      "answer": 6,
+      "explanation": "In SO4^2-, oxygen is -2. Total charge is -2, so S + 4(-2) = -2 → S - 8 = -2 → S = +6."
+    }
+  ],
+  "Maths": [
+    {
+      "type": "mcq",
+      "text": "The derivative of sin(x) with respect to x is:",
+      "options": ["cos(x)", "-sin(x)", "sin(x)", "-cos(x)"],
+      "correctAnswer": "cos(x)",
+      "explanation": "The derivative of sin(x) is cos(x) by the standard rules of differentiation."
+    },
+    {
+      "type": "mcq",
+      "text": "The value of ∫(0 to π) sin(x) dx is:",
+      "options": ["0", "2", "-2", "1"],
+      "correctAnswer": "2",
+      "explanation": "The integral of sin(x) from 0 to π is [-cos(x)] from 0 to π = [-cos(π)] - [-cos(0)] = [-(-1)] - [-1] = 2."
+    },
+    {
+      "type": "mcq",
+      "text": "What is the value of π (pi) to two decimal places?",
+      "options": ["3.14", "3.15", "3.16", "3.13"],
+      "correctAnswer": "3.14",
+      "explanation": "The value of π is approximately 3.14159, rounded to 3.14."
+    },
+    {
+      "type": "mcq",
+      "text": "What is the slope of a horizontal line?",
+      "options": ["0", "1", "undefined", "infinity"],
+      "correctAnswer": "0",
+      "explanation": "A horizontal line has a constant y-value, so its slope is 0."
+    },
+    {
+      "type": "mcq",
+      "text": "What is the area of a circle with radius 2?",
+      "options": ["4π", "2π", "π", "8π"],
+      "correctAnswer": "4π",
+      "explanation": "The area of a circle is πr^2, so for r = 2, it is 4π."
+    },
+    {
+      "type": "mcq",
+      "text": "What is the value of log(100) base 10?",
+      "options": ["2", "10", "1", "100"],
+      "correctAnswer": "2",
+      "explanation": "log10(100) = 2 because 10^2 = 100."
+    },
+    {
+      "type": "mcq",
+      "text": "What is the sum of angles in a triangle?",
+      "options": ["180°", "90°", "360°", "270°"],
+      "correctAnswer": "180°",
+      "explanation": "The sum of interior angles in any triangle is 180°."
+    },
+    {
+      "type": "mcq",
+      "text": "What is the quadratic formula?",
+      "options": ["x = [-b ± √(b^2 - 4ac)] / 2a", "x = a + b + c", "x = b/a", "x = √(a^2 + b^2)"],
+      "correctAnswer": "x = [-b ± √(b^2 - 4ac)] / 2a",
+      "explanation": "The quadratic formula solves ax^2 + bx + c = 0 as x = [-b ± √(b^2 - 4ac)] / 2a."
+    },
+    {
+      "type": "mcq",
+      "text": "What is the value of sin(90°)?",
+      "options": ["1", "0", "-1", "0.5"],
+      "correctAnswer": "1",
+      "explanation": "The sine of 90° is 1 in a right triangle or unit circle."
+    },
+    {
+      "type": "mcq",
+      "text": "What is the factorial of 5?",
+      "options": ["120", "24", "60", "720"],
+      "correctAnswer": "120",
+      "explanation": "5! = 5 × 4 × 3 × 2 × 1 = 120."
+    },
+    {
+      "type": "mcq",
+      "text": "What is the value of cos(0°)?",
+      "options": ["1", "0", "-1", "0.5"],
+      "correctAnswer": "1",
+      "explanation": "The cosine of 0° is 1 in a unit circle."
+    },
+    {
+      "type": "mcq",
+      "text": "What is the perimeter of a square with side 5?",
+      "options": ["20", "25", "10", "15"],
+      "correctAnswer": "20",
+      "explanation": "The perimeter of a square is 4 × side, so 4 × 5 = 20."
+    },
+    {
+      "type": "mcq",
+      "text": "What is the derivative of x^3 with respect to x?",
+      "options": ["3x^2", "x^2", "3x", "x^3"],
+      "correctAnswer": "3x^2",
+      "explanation": "Using the power rule, d/dx(x^n) = n x^(n-1), so d/dx(x^3) = 3x^2."
+    },
+    {
+      "type": "mcq",
+      "text": "What is the value of tan(45°)?",
+      "options": ["1", "0", "√2", "√3"],
+      "correctAnswer": "1",
+      "explanation": "The tangent of 45° is 1, as tan(45°) = sin(45°)/cos(45°) = (√2/2)/(√2/2) = 1."
+    },
+    {
+      "type": "mcq",
+      "text": "What is the area of a triangle with base 6 and height 4?",
+      "options": ["12", "24", "6", "18"],
+      "correctAnswer": "12",
+      "explanation": "Area of a triangle = 1/2 × base × height = 1/2 × 6 × 4 = 12."
+    },
+    {
+      "type": "mcq",
+      "text": "What is the value of e^0?",
+      "options": ["1", "0", "e", "∞"],
+      "correctAnswer": "1",
+      "explanation": "Any non-zero number raised to the power of 0 is 1, so e^0 = 1."
+    },
+    {
+      "type": "mcq",
+      "text": "What is the probability of rolling a 6 on a fair die?",
+      "options": ["1/6", "1/3", "1/2", "1/4"],
+      "correctAnswer": "1/6",
+      "explanation": "A fair die has 6 faces, so the probability of rolling a 6 is 1/6."
+    },
+    {
+      "type": "mcq",
+      "text": "What is the value of cot(90°)?",
+      "options": ["0", "1", "undefined", "-1"],
+      "correctAnswer": "0",
+      "explanation": "cot(90°) = cos(90°)/sin(90°) = 0/1 = 0."
+    },
+    {
+      "type": "mcq",
+      "text": "What is the sum of the first n natural numbers?",
+      "options": ["n(n+1)/2", "n^2", "n(n-1)/2", "n^2/2"],
+      "correctAnswer": "n(n+1)/2",
+      "explanation": "The sum of the first n natural numbers is given by the formula n(n+1)/2."
+    },
+    {
+      "type": "mcq",
+      "text": "What is the value of sec(0°)?",
+      "options": ["1", "0", "undefined", "-1"],
+      "correctAnswer": "1",
+      "explanation": "sec(0°) = 1/cos(0°) = 1/1 = 1."
+    },
+    {
+      "type": "numerical",
+      "text": "What is the value of ∫(0 to 2) 3x dx? (Enter the numerical value)",
+      "answer": 6,
+      "explanation": "∫(0 to 2) 3x dx = [3x^2/2] from 0 to 2 = (3(2)^2/2) - (3(0)^2/2) = 6."
+    },
+    {
+      "type": "numerical",
+      "text": "Solve for x: 2x + 5 = 15. (Enter the numerical value)",
+      "answer": 5,
+      "explanation": "2x + 5 = 15 → 2x = 10 → x = 5."
+    },
+    {
+      "type": "numerical",
+      "text": "What is the circumference of a circle with radius 3? (Use π = 3.14) (Enter the numerical value)",
+      "answer": 18.84,
+      "explanation": "Circumference = 2πr = 2 × 3.14 × 3 = 18.84."
+    },
+    {
+      "type": "numerical",
+      "text": "What is the value of 2^5? (Enter the numerical value)",
+      "answer": 32,
+      "explanation": "2^5 = 2 × 2 × 2 × 2 × 2 = 32."
+    },
+    {
+      "type": "numerical",
+      "text": "What is the determinant of the matrix [[1, 2], [3, 4]]? (Enter the numerical value)",
+      "answer": -2,
+      "explanation": "Determinant = (1 × 4) - (2 × 3) = 4 - 6 = -2."
+    }
+  ]
+}
